@@ -12,7 +12,7 @@ weight: 1
 
 
 ## Introduction
-In the rapidly evolving field of artificial intelligence and machine learning, keeping large language models (LLMs) up-to-date with the latest information is crucial. This paper presents a comprehensive framework, Equality-constrained Mass Model Editing for Transformers (EMMET), that integrates two major model editing techniques: Rank-One Model Editing (ROME) and Mass Editing Memory in Transformer (MEMIT). The proposed framework focuses on the retention-memory objective, which aims to inject new knowledge into the model while maintaining the fidelity of existing information.
+In the rapidly evolving field of artificial intelligence and machine learning, keeping large language models (LLMs) up-to-date with the latest information, is crucial. This paper presents a comprehensive framework named Equality-constrained Mass Model Editing for Transformers (EMMET). This framework integrates two major model editing techniques: Rank-One Model Editing (ROME) and Mass Editing Memory in Transformer (MEMIT). The proposed framework focuses on the retention-memory objective, which aims to inject new knowledge into the model while maintaining the fidelity of existing information.
 
 <p align="center">
     <img src='./figure1.png' width="600">
